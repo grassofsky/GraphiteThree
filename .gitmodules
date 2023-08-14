@@ -1,4 +1,4 @@
 [submodule "geogram"]
 	path = geogram
-	url = https://github.com/BrunoLevy/geogram
-	branch = main
+	url = https://github.com/grassofsky/geogram/
+	branch = dev
